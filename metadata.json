@@ -1,0 +1,6 @@
+{
+  "name": "DarkWatch AI — Cyber Intelligence & Brand Protection",
+  "description": "Professional security intelligence platform for corporate brand protection, public data-leak exposure monitoring, dark-web threat feeds, phishing detection, and AI-assisted threat analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
